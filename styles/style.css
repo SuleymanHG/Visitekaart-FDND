@@ -27,11 +27,14 @@ h1{
   top:10px;
   margin-top:2em;
 }
+
 h2{
   text-align: center;
   font-size: 15px;
   line-height: 0.5;
 }
+
+/* code van de profielfoto */
 img{
   position: relative;
   width: 6em;
@@ -44,6 +47,7 @@ img{
   margin-left:30px;
   
 }
+/* code voor de QR code  */
 .qrcodegit{
   margin-left:0;
   border-radius: 0;
@@ -51,6 +55,7 @@ img{
   width: 10em;
   height: 10em;
 }
+/* Code voor de logos van de socials */
 .logos{
   margin-left:0;
   border-radius: 0;
@@ -60,6 +65,7 @@ img{
   width: 30px;
   height: 30px;
 }
+
 div{
   background-color: white;
   border-radius:10px;
@@ -71,6 +77,8 @@ div{
   margin-left: 10px;
   margin-right: 10px;
 }
+
+/* Code voor de blokken met info */
 .info{
   display: block;
   margin:auto;
@@ -81,6 +89,7 @@ div{
   text-align: center;
 }
 
+/* Code voor de links naar de socials */
 a {
   display:block;
   padding-top: 13px;
@@ -102,6 +111,7 @@ a {
   
   }
   
+  /* Code voor de hover functie van de knoppen */
   .hoverbutton:hover{
   color: rgb(0, 0, 0);
   width: 390px;
